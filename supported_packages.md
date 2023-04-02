@@ -1,3 +1,5 @@
+# Exit150 Boilerplate
+
 ## Langauges
 
 - ### JavaScript
@@ -28,15 +30,11 @@
     - [idna](https://pypi.org/project/idna/)
     - [jmespath](https://pypi.org/project/jmespath/)
     - [keras](https://pypi.org/project/keras/)
-    - [numpy](https://pypi.org/project/numpy/)
-    - [pandas](https://pypi.org/project/pandas/)
-    - [Pillow](https://pypi.org/project/Pillow/)
     - [pipreqs](https://pypi.org/project/pipreqs/)
     - [platformdirs](https://pypi.org/project/platformdirs/)
     - [pytz](https://pypi.org/project/pytz/)
     - [requests](https://pypi.org/project/requests/)
     - [s3transfer](https://pypi.org/project/s3transfer/)
-    - [scipy](https://pypi.org/project/scipy/)
     - [six](https://pypi.org/project/six/)
     - [urllib3](https://pypi.org/project/urllib3/)
     - [virtualenv](https://pypi.org/project/virtualenv/)
