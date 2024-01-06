@@ -1,9 +1,8 @@
-# Exit150 Boilerplate
+# List of packages that can be used in QuikRun Snippets
 
 ## Langauges
 
 - ### JavaScript
-
   - #### Packages
     - [axios](https://www.npmjs.com/package/axios)
     - [cheerio](https://www.npmjs.com/package/cheerio)
@@ -18,7 +17,6 @@
     - [type-fest](https://www.npmjs.com/package/type-fest)
 
 - ### Python
-
   - #### Packages
     - [boto3](https://pypi.org/project/boto3/)
     - [botocore](https://pypi.org/project/botocore/)
@@ -41,7 +39,6 @@
     - [yarg](https://pypi.org/project/yarg/)
 
 - ### Ruby
-
   - #### Gems
     - [rspec](https://rubygems.org/gems/rspec)
     - [http](https://rubygems.org/gems/http)
@@ -61,3 +58,6 @@
     - [once](https://www.npmjs.com/package/once)
     - [run-parallel](https://www.npmjs.com/package/run-parallel)
     - [type-fest](https://www.npmjs.com/package/type-fest)
+
+
+## Want to request addition of a package? [Submit here](mailto:naman@quik.run?subject=QuikRun%20Snippets%20Package%20Request&body=Hey%20there!%0A%0AI'm%20interested%20in%20contributing%20to%20the%20QuikRun%20Snippets%20project.%20Here%20are%20some%20package%20suggestions%20I'd%20like%20to%20submit:%0A%0A1.%20[Package%201]%20-%20Description%20here%0A2.%20[Package%202]%20-%20Description%20here%0A3.%20[Package%203]%20-%20Description%20here%0A%0AThanks,%0A[Your%20Name])
